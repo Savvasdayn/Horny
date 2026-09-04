@@ -29,5 +29,27 @@ helloworld/
 ```
 - *мои изображения*
 ![alt text](8aa7dbd91df178e7100bc8dee6a91dfa.jpg)
+--- 
+
+***
+
 ![alt text](png-transparent-anime-manga-black-and-white-desktop-manga-boy-black-hair-monochrome-boy.png)
+---
+
+***
+
 ![alt text](гарвавр.webp)
+---
+
+***
+```
+** Мои планы **
+
+*Стать сильнее*
+
+*Стать увереннее*
+
+*Стать лучше ведь я непогрешим*
+
+~~плакать~~
+```
