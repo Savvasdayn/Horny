@@ -106,18 +106,17 @@ timeline
 ```
 ### Кастомизация стилей
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#ff5500', 'edgeLabelBackground':'#fff'}}}%%
+flowchart LR
+    A[Важно] --> B[Обычно]
+    style A fill:#f96,stroke:#333,stroke-width:2px
+    style B fill:#9f9,stroke:#333
 ```
 ### Классы CSS
 ```mermaid
-.card {
-    padding: 16px;
-    border: 1px solid #ccc;
-}
-.card.active {
-    border-color: #007bff;
-    background: #f0f8ff;
-}
+flowchart LR
+    A[Узел 1]:::warn --> B[Узел 2]:::ok
+    classDef warn fill:#f96,stroke:#900,color:#fff
+    classDef ok fill:#9f9,stroke:#090
 ```
 ### Интерактивность
 
