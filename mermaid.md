@@ -119,7 +119,12 @@ flowchart LR
     classDef ok fill:#9f9,stroke:#090
 ```
 ### Интерактивность
-
+```mermaid
+flowchart LR
+    A[Кликни] --> B[Ссылка]
+    click A callback "Подсказка"
+    click B "https://example.com" "Открыть сайт"
+```
 #### Круговая диаграмма
 ```mermaid
 pie
