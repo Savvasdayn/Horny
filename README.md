@@ -1,55 +1,10 @@
-# Horny
-## My repositories 
+## Репозиторий по дисциплине
+Навигация
 
-*здесь будут мои раболаторные работы*
-
-Структура проекта
-```
-helloworld/
-├── README.md # Главная страница проекта
-├── src/
-│   ├── README.md # Только заголовок
-├── translations/
-│   ├── README.md # Только заголовок
-└── resources/ # Для изображений
-    └── README.md # Только заголовок
-```
-```
-*   Заголовки
-*   Навигатор по проекту
-*   Навигатор по документу по якорям
-*   Изображения (2-3 шт.)
-*   Блок с описанием проекта (2-3 предложения) с различными способами выделения текста.
-*   Цитаты
-*   Горизонтальные линии (разделители)
-*   Нумерованный список со ссылками на все созданные документы в папках `src/`, `translations` и `resources`.
-*   Пример форматированного кода
-*   Таблицу сравнения с подобными проектами
-*   Mermaid диаграммы
-```
-- *мои изображения*
-![alt text](8aa7dbd91df178e7100bc8dee6a91dfa.jpg)
---- 
-
-***
-
-![alt text](png-transparent-anime-manga-black-and-white-desktop-manga-boy-black-hair-monochrome-boy.png)
----
-
-***
-
-![alt text](гарвавр.webp)
----
-
-***
-```
-** Мои планы **
-
-*Стать сильнее*
-
-*Стать увереннее*
-
-*Стать лучше ведь я непогрешим*
-
-~~плакать~~
-```
+- [Основы редактирования текста](/Text.md)
+- [Markdown](/Markdown.md)
+- [Mermaid](/Mermaid.md)
+- [BashCLI](/Linux/Bash/bashCLI.md)
+- [BashScripting](/Linux/Bash/bashScripting.md)
+- [Git](/Git.md)
+- [Работа BashScripting](/bashscriptingwork/README.md)
